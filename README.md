@@ -1,6 +1,4 @@
-Projekt zaliczeniowy na przedmiot Techniki Internetu
-Autor: Błażej Woźniak
-Numer indeksu: 301740
+Projekt zaliczeniowy sklep internetowy w PHP
 
 WAŻNE: Projekt tworzonny na XAMPP 5.6.40-1
 
@@ -8,8 +6,7 @@ WAŻNE: Projekt tworzonny na XAMPP 5.6.40-1
 - podczas importu pliku w folderze database (okulardb.sql) konieczne jest aby odznaczyć "Enable foreign key checks"
 
 - WAŻNE
-podczas próby załadowania zdjecia z panelu administracyjnego miałem błąd z brakiem uprawnień. Na linuxie konieczne jest
-dodatkowo nadanie uprawnien:
+Na linuxie konieczne jest dodatkowo nadanie uprawnien:
 
 sudo chmod -R 777 /opt/lampp/htdocs
 
@@ -37,5 +34,3 @@ Do użytkownika adam@gmail.com - dodaję również zamówienia jedno w toku drug
 
 W panelu administracyjnym mamy wgląd do aktualnych zamówień ich hipotetyczne wyciagniecie i zresetowanie czyli zrealizowanie. Ponadto oczywiście mamy
 możliwość zarządzania użytkownikami w bazie.
-
-
